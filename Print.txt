@@ -1,2 +1,3 @@
 print("Hellow World");
 print("Hellow everybody");
+print("Hellow New");
