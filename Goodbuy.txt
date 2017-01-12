@@ -1,0 +1,2 @@
+printf("Goodbuy");
+printf("Goodbuy is two");
